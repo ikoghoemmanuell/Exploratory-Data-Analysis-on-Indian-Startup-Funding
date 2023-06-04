@@ -1,13 +1,12 @@
+## Exploratory Data Analysis of Indian-Startup-Funding
+
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ikoghoemmanuell)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ikoghoemmanuell?tab=repositories)
-
 [![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://link.medium.com/qGCAF2xRCwb)
 
-# Exploratory Data Analysis of Indian-Startup-Funding
+<img src=" https://thumbs.dreamstime.com/b/startup-circle-process-business-concept-60485119.jpg" width="150">
 
 ## Introduction
-
-<img src=" https://thumbs.dreamstime.com/b/startup-circle-process-business-concept-60485119.jpg" width="150">
 
 Ideas, creativity, and execution are essential for a start-up to flourish. But are they enough? Investors provide start-ups and other entrepreneurial ventures with the capital---popularly known as "funding"---to think big, grow rich, and leave a lasting impact. 
 In this project, I am going to analyse funding received by start-ups in India from 2018 to 2021.
