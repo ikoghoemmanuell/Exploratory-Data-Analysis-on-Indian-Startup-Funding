@@ -1,6 +1,7 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ikoghoemmanuell)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ikoghoemmanuell?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://link.medium.com/qGCAF2xRCwb)
+[![Website](https://img.shields.io/badge/My-Website-darkgreen)](https://emmanuelikogho.netlify.app/)
 
 ## Exploratory Data Analysis of Indian-Startup-Funding
 
